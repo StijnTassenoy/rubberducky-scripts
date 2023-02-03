@@ -1,0 +1,7 @@
+DELAY 2500
+GUI r
+DELAY 300
+STRING https://tinyurl.com/furget
+ENTER
+DELAY 3000
+STRING f
